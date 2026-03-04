@@ -1,0 +1,533 @@
+customer_id,national_id,full_name,email,phone,age,city,signup_date,kyc_status
+C00001,76448062,Daniela Flores,daniela.flores504@hotmail.com,3059777751,61,Bucaramanga,2023-12-09,VERIFIED
+C00002,319764854,Daniela Mendoza,daniela.mendoza46@hotmail.com,3420580882,50,Cartagena,2023-05-06,VERIFIED
+C00003,7309486771,Diego Castro,diego.castro751@hotmail.com,3344051769,56,Barranquilla,2023-10-06,REJECTED
+C00004,4393047141,Paula Pérez,paula.perez943@empresa.co,3643256941,61,Cartagena,2024-04-23,VERIFIED
+C00005,0378488382,Valentina Ramírez,valentina.ramirez310@empresa.co,3266181807,58,Bogotá,2024-08-16,REJECTED
+C00006,472754550,Laura Torres,laura.torres78@gmail.com,3121466485,22,Villavicencio,2024-08-04,REJECTED
+C00007,655057360,Laura Mendoza,laura.mendoza827@gmail.com,3349224980,30,Medellín,2024-09-16,VERIFIED
+C00008,82924615,Juan Pérez,juan.perez735@hotmail.com,3579644483,26,Santa Marta,2023-09-12,REJECTED
+C00009,10776471,Juan Ramírez,juan.ramirez796@gmail.com,3959146441,37,Santa Marta,2023-07-01,VERIFIED
+C00010,66639031,Laura Martínez,laura.martinez824@hotmail.com,3393946427,68,Cartagena,2023-07-20,REJECTED
+C00011,2774720049,Valentina Mendoza,valentina.mendoza34@outlook.com,3147273855,27,Santa Marta,2023-12-19,PENDING
+C00012,0747643615,Paula Ramírez,paula.ramirez848@gmail.com,3066074701,43,Santa Marta,2023-05-24,PENDING
+C00013,61611571,Jorge Mendoza,jorge.mendoza191@empresa.co,3299543652,19,Barranquilla,2023-04-26,PENDING
+C00014,4447002464,Jorge Rojas,jorge.rojas42@fintech.co,3491554829,35,Bogotá,2024-02-19,PENDING
+C00015,842038085,Laura Ramírez,laura.ramirez264@hotmail.com,3135316612,30,Manizales,2024-05-16,VERIFIED
+C00016,7973169922,Mateo Gómez,mateo.gomez466@outlook.com,3015533848,68,Bogotá,2023-08-30,REJECTED
+C00017,96265929,Camila Mendoza,camila.mendoza765@fintech.co,3911502499,25,Pereira,2024-11-08,PENDING
+C00018,78828154,Andrés Mendoza,andres.mendoza349@gmail.com,3307364380,56,Villavicencio,2024-07-21,REJECTED
+C00019,209920108,Sara Flores,sara.flores305@gmail.com,3817135780,28,Cali,2023-08-02,VERIFIED
+C00020,97394541,Jorge Torres,jorge.torres435@outlook.com,3901221069,24,Santa Marta,2023-08-14,VERIFIED
+C00021,967541880,Felipe Vargas,felipe.vargas209@hotmail.com,3707814159,22,Villavicencio,2023-10-30,REJECTED
+C00022,3145639529,Andrés Pérez,andres.perez179@gmail.com,3940551681,55,Manizales,2023-04-17,REJECTED
+C00023,4091519784,Camila López,camila.lopez810@gmail.com,3467806128,31,Villavicencio,2024-08-28,VERIFIED
+C00024,235769876,Valentina López,valentina.lopez823@outlook.com,3241394169,63,Santa Marta,2023-07-28,VERIFIED
+C00025,522297889,Sara Pérez,sara.perez118@gmail.com,3180453118,34,Barranquilla,2023-08-24,VERIFIED
+C00026,1995112514,Felipe Ramírez,felipe.ramirez749@hotmail.com,3150701180,40,Bucaramanga,2024-03-25,REJECTED
+C00027,683839578,Camila Martínez,camila.martinez33@outlook.com,3785041822,30,Cartagena,2024-05-03,PENDING
+C00028,942003958,Sara Gómez,sara.gomez397@hotmail.com,3108104960,61,Manizales,2024-10-03,PENDING
+C00029,9293857666,Felipe Rodríguez,felipe.rodriguez106@hotmail.com,3771853598,61,Pereira,2023-12-18,PENDING
+C00030,3662201441,Valentina Pérez,valentina.perez876@hotmail.com,3462335373,40,Cali,2023-10-16,PENDING
+C00031,62279698,Daniela Hernández,daniela.hernandez621@outlook.com,3473459846,28,Bogotá,2024-09-03,PENDING
+C00032,576021702,Laura Flores,,3565891966,22,Bogotá,2024-04-17,PENDING
+C00033,5059719918,Sara Vargas,sara.vargas713@empresa.co,3454797990,31,Bucaramanga,2024-07-02,PENDING
+C00034,005611150,Mateo Rojas,mateo.rojas928@fintech.co,3544657797,44,Cartagena,2024-01-10,REJECTED
+C00035,51981717,Laura Rodríguez,laura.rodriguez397@hotmail.com,3046749726,55,Barranquilla,2023-09-11,VERIFIED
+C00036,8876273533,Daniela Torres,daniela.torres957@fintech.co,3191095473,24,Pereira,2024-07-08,VERIFIED
+C00037,59937641,Laura Vargas,laura.vargas905@empresa.co,3369078941,32,Manizales,2024-10-08,REJECTED
+C00038,6114506500,María Rodríguez,maria.rodriguez713@hotmail.com,3478429434,18,Pereira,2023-08-18,REJECTED
+C00039,977513908,Felipe Vargas,felipe.vargas120@gmail.com,3627801690,52,Villavicencio,2023-04-14,PENDING
+C00040,606880224,Andrés Vargas,andres.vargas212@outlook.com,3187810926,65,Manizales,2023-01-28,REJECTED
+C00041,01086989,Laura Gómez,laura.gomez307@fintech.co,3228206899,24,Bogotá,2024-08-09,VERIFIED
+C00042,6884042116,Juan Hernández,juan.hernandez864@gmail.com,3557560841,60,Bogotá,2024-07-12,REJECTED
+C00043,10207597,Camila García,camila.garcia59@hotmail.com,3650060028,41,Medellín,2024-06-23,REJECTED
+C00044,130713954,Juan García,juan.garcia7@outlook.com,3572685412,67,Cartagena,2024-02-16,VERIFIED
+C00045,45562649,Felipe Vargas,felipe.vargas727@fintech.co,3114564941,24,Barranquilla,2025-01-09,VERIFIED
+C00046,92036476,Camila Torres,camila.torres381@hotmail.com,3469414829,48,Cartagena,2024-04-02,VERIFIED
+C00047,90244412,Daniela Mendoza,daniela.mendoza274@gmail.com,3053557565,51,Bogotá,2024-04-13,PENDING
+C00048,27351456,Diego Pérez,,3539587581,65,Medellín,2024-10-08,VERIFIED
+C00049,752723583,Andrés Flores,andres.flores768@hotmail.com,3401008880,22,Manizales,2023-08-02,VERIFIED
+C00050,341730790,Laura Rodríguez,laura.rodriguez54@gmail.com,3487843712,49,Santa Marta,2024-05-23,REJECTED
+C00051,53590947,Valentina Ramírez,valentina.ramirez475@hotmail.com,3437617739,51,Cali,2023-09-11,VERIFIED
+C00052,62754171,Andrés Rojas,andres.rojas77@fintech.co,3489995288,69,Villavicencio,2024-05-09,PENDING
+C00053,54833087,Laura Gómez,laura.gomez448@empresa.co,3044491312,65,Villavicencio,2024-12-15,REJECTED
+C00054,62121495,Felipe Hernández,felipe.hernandez792@outlook.com,3740022888,51,Cartagena,2024-02-27,VERIFIED
+C00055,467760737,Ana Rojas,ana.rojas895@fintech.co,3583983457,53,Manizales,2024-10-09,VERIFIED
+C00056,549351833,Felipe Ramírez,felipe.ramirez968@gmail.com,3548551039,65,Cali,2024-04-23,VERIFIED
+C00057,310331206,Camila Hernández,camila.hernandez913@gmail.com,3964431550,39,Santa Marta,2023-07-31,REJECTED
+C00058,75679868,Valentina Hernández,valentina.hernandez216@hotmail.com,3497695729,50,Bucaramanga,2024-08-17,VERIFIED
+C00059,801578465,Ana Sánchez,ana.sanchez839@gmail.com,3964919128,56,Bucaramanga,2025-01-07,REJECTED
+C00060,6301205794,Jorge Castro,jorge.castro16@gmail.com,3898439240,59,Villavicencio,2024-05-08,PENDING
+C00061,25582948,Camila Gómez,camila.gomez248@hotmail.com,3200390319,53,Manizales,2024-08-02,VERIFIED
+C00062,6708773830,Laura Ramírez,laura.ramirez706@outlook.com,3921628409,44,Medellín,2023-07-19,VERIFIED
+C00063,5074686622,Diego Sánchez,,3485378927,48,Barranquilla,2023-12-08,VERIFIED
+C00064,125881606,Santiago Pérez,santiago.perez620@fintech.co,3347485962,58,Cali,2023-11-07,VERIFIED
+C00065,115198775,Felipe Gómez,felipe.gomez709@outlook.com,3034924311,36,Pereira,2023-03-04,PENDING
+C00066,32503496,Laura Mendoza,,3834489975,46,Santa Marta,2025-01-15,REJECTED
+C00067,38325389,Daniela Pérez,daniela.perez81@gmail.com,3359725660,33,Santa Marta,2024-10-11,PENDING
+C00068,23113802,Diego Martínez,diego.martinez728@empresa.co,3052757648,42,Barranquilla,2024-12-22,PENDING
+C00069,5628692741,Andrés Torres,andres.torres393@hotmail.com,3153146397,44,Bogotá,2024-12-11,REJECTED
+C00070,109971200,Camila Vargas,camila.vargas526@gmail.com,3250942573,20,Medellín,2023-02-08,VERIFIED
+C00071,1637086429,Laura Rojas,laura.rojas395@hotmail.com,3343241021,39,Cali,2024-10-17,PENDING
+C00072,01524034,Laura Rojas,laura.rojas349@hotmail.com,3457485223,49,Medellín,2023-07-04,REJECTED
+C00073,4863273294,Valentina Vargas,valentina.vargas38@fintech.co,3044871160,34,Cartagena,2023-04-16,REJECTED
+C00074,90091801,Diego Martínez,diego.martinez766@fintech.co,3176420525,53,Medellín,2024-10-07,REJECTED
+C00075,028564187,Santiago Rojas,santiago.rojas724@hotmail.com,3982229549,49,Medellín,2024-11-22,VERIFIED
+C00076,0378135716,Mateo Gómez,mateo.gomez818@fintech.co,3225463808,19,Villavicencio,2024-07-13,VERIFIED
+C00077,307167873,María Pérez,maria.perez382@empresa.co,3783181521,58,Barranquilla,2023-04-20,VERIFIED
+C00078,6017519209,Paula Castro,paula.castro986@gmail.com,3059553158,22,Bucaramanga,2024-10-31,PENDING
+C00079,516127045,Sara Gómez,sara.gomez935@empresa.co,3123698100,48,Bogotá,2023-04-29,VERIFIED
+C00080,88826615,Diego Pérez,diego.perez942@outlook.com,3537657752,57,Medellín,2024-06-29,VERIFIED
+C00081,1495900735,Jorge Pérez,jorge.perez535@fintech.co,3449078631,53,Pereira,2023-12-23,VERIFIED
+C00082,39216198,Daniela Vargas,daniela.vargas584@fintech.co,3992234876,63,Villavicencio,2024-05-05,PENDING
+C00083,450767579,Ana Sánchez,ana.sanchez47@empresa.co,3541796887,44,Pereira,2023-03-17,PENDING
+C00084,24740299,Ana Rodríguez,ana.rodriguez265@empresa.co,3387986363,36,Bucaramanga,2024-04-07,VERIFIED
+C00085,534065954,Juan Ramírez,juan.ramirez969@empresa.co,3013333713,26,Santa Marta,2023-08-22,REJECTED
+C00086,0309721047,Juan Castro,juan.castro823@outlook.com,3583242914,45,Bogotá,2023-02-13,REJECTED
+C00087,421004092,Ana Gómez,ana.gomez875@outlook.com,3664812212,34,Cali,2024-08-04,REJECTED
+C00088,87919693,Ana Vargas,ana.vargas980@hotmail.com,3950419325,40,Pereira,2023-03-15,PENDING
+C00089,8764551024,Paula García,paula.garcia558@empresa.co,3118355772,62,Manizales,2023-10-10,VERIFIED
+C00090,4170702694,Diego Ramírez,diego.ramirez768@gmail.com,3128713218,50,Pereira,2023-05-17,VERIFIED
+C00091,404128718,Sara Pérez,sara.perez824@outlook.com,3587355723,30,Villavicencio,2023-08-14,REJECTED
+C00092,09080735,Felipe Ramírez,felipe.ramirez689@outlook.com,3244535843,24,Medellín,2023-10-01,REJECTED
+C00093,19048911,Jorge Rodríguez,jorge.rodriguez656@outlook.com,3359212803,24,Santa Marta,2023-04-30,VERIFIED
+C00094,0396049455,Ana López,ana.lopez447@fintech.co,3618918873,42,Cartagena,2024-09-29,VERIFIED
+C00095,89635093,Juan Vargas,juan.vargas872@outlook.com,3076607678,29,Cartagena,2023-06-10,PENDING
+C00096,5426705922,Santiago Flores,santiago.flores591@fintech.co,3803471417,50,Pereira,2024-01-13,REJECTED
+C00097,196347743,Camila Mendoza,camila.mendoza990@outlook.com,3665046953,46,Villavicencio,2023-05-15,VERIFIED
+C00098,69850942,Felipe Hernández,felipe.hernandez851@outlook.com,3877294576,26,Bogotá,2023-08-18,VERIFIED
+C00099,973773485,Andrés Martínez,andres.martinez571@fintech.co,3175579341,51,Pereira,2023-11-03,PENDING
+C00100,644421803,Juan Torres,juan.torres922@hotmail.com,3616763083,59,Bucaramanga,2023-05-31,PENDING
+C00101,79872961,Jorge Rodríguez,jorge.rodriguez179@hotmail.com,3182712226,65,Medellín,2024-11-22,VERIFIED
+C00102,2955779567,Ana Rojas,ana.rojas324@gmail.com,3236037953,40,Barranquilla,2024-06-04,VERIFIED
+C00103,054789634,María Flores,maria.flores81@hotmail.com,3198833857,43,Cartagena,2023-12-03,PENDING
+C00104,838249993,Diego Mendoza,diego.mendoza494@gmail.com,3899079727,23,Medellín,2024-01-01,REJECTED
+C00105,462666232,María Castro,maria.castro145@gmail.com,3453422682,62,Bucaramanga,2024-03-09,REJECTED
+C00106,30034718,Mateo Hernández,mateo.hernandez197@outlook.com,3216761134,69,Santa Marta,2023-08-06,REJECTED
+C00107,91044689,Ana Pérez,ana.perez712@gmail.com,3296091572,32,Cali,2023-12-28,REJECTED
+C00108,2641785114,Santiago Pérez,,3552526760,69,Medellín,2023-01-19,VERIFIED
+C00109,0510671933,Valentina López,valentina.lopez807@empresa.co,3241420367,36,Bogotá,2023-09-04,VERIFIED
+C00110,6898943327,Andrés Mendoza,andres.mendoza627@empresa.co,3781428215,63,Villavicencio,2024-11-26,PENDING
+C00111,31352050,Daniela Torres,,3200487003,51,Manizales,2024-07-21,VERIFIED
+C00112,3101082855,Juan Rojas,juan.rojas738@hotmail.com,3480043575,31,Pereira,2023-09-06,PENDING
+C00113,2557743342,Ana Sánchez,ana.sanchez371@hotmail.com,3626791703,27,Manizales,2023-05-04,VERIFIED
+C00114,08036981,Laura Flores,laura.flores280@fintech.co,3961493189,68,Bucaramanga,2024-12-27,VERIFIED
+C00115,4162469227,Valentina Martínez,valentina.martinez892@empresa.co,3057538374,19,Barranquilla,2024-02-08,VERIFIED
+C00116,96346224,Laura García,laura.garcia989@hotmail.com,3271835137,32,Cali,2023-04-11,VERIFIED
+C00117,134566803,Ana Rodríguez,ana.rodriguez223@fintech.co,3002587671,61,Santa Marta,2024-11-07,REJECTED
+C00118,48489403,Jorge Flores,jorge.flores621@outlook.com,3245413602,64,Cali,2023-03-17,VERIFIED
+C00119,214510168,Carlos Torres,carlos.torres645@hotmail.com,3133320533,31,Medellín,2024-12-07,VERIFIED
+C00120,428809607,Carlos Flores,carlos.flores350@outlook.com,3101464118,68,Cartagena,2024-07-27,VERIFIED
+C00121,86519402,Paula Hernández,paula.hernandez840@gmail.com,3403490598,66,Villavicencio,2023-05-10,VERIFIED
+C00122,9345429938,Felipe Castro,felipe.castro130@empresa.co,3375416321,69,Barranquilla,2023-03-20,VERIFIED
+C00123,8055364448,Santiago García,santiago.garcia641@fintech.co,3639897373,32,Cali,2023-12-09,PENDING
+C00124,5342635339,Ana Flores,ana.flores962@fintech.co,3303503157,68,Villavicencio,2023-10-23,VERIFIED
+C00125,2757752589,Felipe Rojas,felipe.rojas532@fintech.co,3915169069,62,Cali,2023-10-26,PENDING
+C00126,99590609,Daniela Mendoza,daniela.mendoza178@empresa.co,3695003718,30,Cali,2024-01-13,VERIFIED
+C00127,44057938,María Gómez,maria.gomez847@fintech.co,3893850261,40,Bogotá,2024-08-11,PENDING
+C00128,42529097,Mateo Rodríguez,mateo.rodriguez891@gmail.com,3881959853,24,Villavicencio,2023-03-18,PENDING
+C00129,854256976,Laura Vargas,laura.vargas804@empresa.co,3949314118,59,Medellín,2023-06-18,REJECTED
+C00130,0273780095,Ana Rojas,ana.rojas970@fintech.co,3544651661,37,Cartagena,2024-08-23,VERIFIED
+C00131,105495924,Paula López,paula.lopez575@outlook.com,3151431059,28,Santa Marta,2023-11-04,REJECTED
+C00132,84920569,Sara Martínez,sara.martinez695@outlook.com,3886341430,28,Cartagena,2024-02-11,VERIFIED
+C00133,949602753,María López,maria.lopez607@empresa.co,3593039789,24,Cartagena,2023-08-03,REJECTED
+C00134,08917509,Juan Flores,juan.flores978@empresa.co,3857374901,68,Villavicencio,2023-08-08,REJECTED
+C00135,71521910,Daniela Sánchez,daniela.sanchez126@hotmail.com,3681758196,61,Santa Marta,2023-10-03,VERIFIED
+C00136,6197353598,Ana Rojas,ana.rojas508@fintech.co,3294774448,38,Pereira,2023-08-01,REJECTED
+C00137,131070577,Diego Pérez,diego.perez902@hotmail.com,3419860031,62,Cali,2023-06-06,PENDING
+C00138,98235698,Juan Gómez,juan.gomez518@fintech.co,3902503190,25,Santa Marta,2023-05-29,REJECTED
+C00139,53925667,Juan Torres,juan.torres131@gmail.com,3258866869,24,Medellín,2023-09-22,REJECTED
+C00140,04244698,Paula Gómez,paula.gomez369@outlook.com,3337154163,27,Cali,2024-05-11,REJECTED
+C00141,61482779,Carlos Flores,carlos.flores405@empresa.co,3179718154,45,Bogotá,2024-01-30,REJECTED
+C00142,59429045,Paula Martínez,paula.martinez784@gmail.com,3494907522,55,Santa Marta,2024-04-29,VERIFIED
+C00143,059044824,Andrés Sánchez,andres.sanchez395@empresa.co,3708876779,40,Cali,2023-12-13,REJECTED
+C00144,187633467,María Sánchez,maria.sanchez366@hotmail.com,3699735468,37,Santa Marta,2024-01-20,REJECTED
+C00145,74452573,Ana Gómez,ana.gomez345@fintech.co,3131361728,56,Pereira,2023-07-27,PENDING
+C00146,109812132,María Rodríguez,maria.rodriguez266@gmail.com,3351877178,27,Medellín,2024-07-24,REJECTED
+C00147,748132233,Andrés García,andres.garcia230@outlook.com,3175871044,30,Bucaramanga,2024-08-17,REJECTED
+C00148,718244822,Laura Torres,,3331124337,30,Cartagena,2024-11-22,VERIFIED
+C00149,1312310473,Valentina Rodríguez,valentina.rodriguez647@empresa.co,3839257093,43,Bogotá,2024-04-22,REJECTED
+C00150,086946488,Laura Torres,laura.torres225@fintech.co,3957347070,48,Medellín,2023-12-29,PENDING
+C00151,444457568,Juan García,juan.garcia891@outlook.com,3917217087,69,Medellín,2024-05-22,PENDING
+C00152,1813147286,Diego Ramírez,diego.ramirez424@fintech.co,3694395622,26,Bucaramanga,2023-06-19,VERIFIED
+C00153,70697408,Daniela García,daniela.garcia630@fintech.co,3066171289,31,Santa Marta,2024-12-01,REJECTED
+C00154,7126984292,Jorge Torres,jorge.torres533@outlook.com,3395204946,31,Cali,2024-08-12,REJECTED
+C00155,6753788260,Juan Flores,juan.flores946@outlook.com,3553980228,44,Barranquilla,2024-07-07,REJECTED
+C00156,7013371321,Ana Sánchez,ana.sanchez582@fintech.co,3115444785,51,Santa Marta,2024-07-15,PENDING
+C00157,1914642902,María García,maria.garcia654@outlook.com,3970790441,28,Manizales,2023-05-13,VERIFIED
+C00158,44221729,Jorge Mendoza,jorge.mendoza723@gmail.com,3586262122,25,Barranquilla,2023-01-18,REJECTED
+C00159,5492486320,Santiago López,santiago.lopez205@outlook.com,3017647123,65,Medellín,2024-04-11,PENDING
+C00160,2802508853,Ana López,ana.lopez366@gmail.com,3065761171,66,Bogotá,2023-03-22,REJECTED
+C00161,9408159708,Mateo Ramírez,mateo.ramirez244@fintech.co,3176241923,44,Santa Marta,2024-05-26,REJECTED
+C00162,558387997,Andrés López,andres.lopez100@hotmail.com,3277262571,35,Santa Marta,2024-08-27,REJECTED
+C00163,907891933,Sara Rodríguez,sara.rodriguez78@fintech.co,3366409205,39,Manizales,2024-04-12,PENDING
+C00164,0257636948,Andrés Gómez,andres.gomez52@empresa.co,3732723262,52,Bogotá,2024-12-11,VERIFIED
+C00165,9042973564,Felipe Rodríguez,felipe.rodriguez917@fintech.co,3404388708,38,Medellín,2023-11-13,PENDING
+C00166,8037525827,Carlos Flores,carlos.flores335@gmail.com,3782255477,30,Villavicencio,2024-08-27,VERIFIED
+C00167,40394716,Andrés Hernández,andres.hernandez894@outlook.com,3379514140,51,Santa Marta,2023-08-24,PENDING
+C00168,08880395,Mateo Rojas,mateo.rojas301@empresa.co,3112919698,35,Santa Marta,2024-09-21,PENDING
+C00169,22101130,Laura López,laura.lopez523@empresa.co,3090001587,48,Manizales,2023-03-06,REJECTED
+C00170,0648364597,Mateo Castro,mateo.castro589@fintech.co,3447314014,59,Barranquilla,2024-08-16,VERIFIED
+C00171,41727863,Jorge Mendoza,jorge.mendoza630@gmail.com,3966880872,33,Cali,2024-07-26,REJECTED
+C00172,46691295,Juan Hernández,juan.hernandez789@fintech.co,3223526461,50,Bucaramanga,2024-12-03,PENDING
+C00173,36665660,Andrés Pérez,andres.perez253@outlook.com,3740440923,40,Villavicencio,2024-09-24,VERIFIED
+C00174,7288450794,Ana Gómez,,3540679949,45,Santa Marta,2024-05-02,REJECTED
+C00175,971045645,Jorge Torres,jorge.torres618@gmail.com,3934549954,48,Villavicencio,2023-05-18,PENDING
+C00176,210506437,Paula Pérez,paula.perez777@outlook.com,3577025911,66,Santa Marta,2025-01-04,REJECTED
+C00177,46133634,Ana Vargas,ana.vargas280@empresa.co,3271229951,57,Santa Marta,2024-01-09,REJECTED
+C00178,3982723262,Carlos Rojas,carlos.rojas816@outlook.com,3657909153,51,Barranquilla,2024-07-02,VERIFIED
+C00179,4932356823,Daniela Torres,daniela.torres717@fintech.co,3942949995,59,Bogotá,2024-12-31,PENDING
+C00180,03650515,Santiago Sánchez,santiago.sanchez608@fintech.co,3564467834,35,Pereira,2024-02-05,REJECTED
+C00181,41589402,María Pérez,maria.perez915@gmail.com,3179510931,27,Bucaramanga,2023-07-13,REJECTED
+C00182,826000958,Santiago López,santiago.lopez252@gmail.com,3008115624,53,Cartagena,2023-12-03,VERIFIED
+C00183,048681051,Santiago Mendoza,santiago.mendoza184@gmail.com,3593561828,52,Pereira,2023-04-18,VERIFIED
+C00184,1599845394,Laura Ramírez,laura.ramirez496@hotmail.com,3737270134,54,Santa Marta,2023-09-30,REJECTED
+C00185,34562667,Andrés Hernández,andres.hernandez161@empresa.co,3582701846,49,Pereira,2024-06-12,REJECTED
+C00186,10825414,Jorge Gómez,,3011859426,66,Medellín,2024-02-09,VERIFIED
+C00187,39595087,Santiago García,santiago.garcia854@hotmail.com,3791929157,22,Barranquilla,2023-02-20,VERIFIED
+C00188,0696446551,Juan Sánchez,juan.sanchez977@gmail.com,3677077185,42,Bogotá,2024-07-03,PENDING
+C00189,539917039,Laura Rodríguez,laura.rodriguez499@fintech.co,3132745957,23,Cali,2023-06-13,REJECTED
+C00190,8631872564,Ana Hernández,ana.hernandez195@hotmail.com,3912066951,41,Villavicencio,2023-03-09,PENDING
+C00191,6833044771,Jorge Pérez,jorge.perez827@fintech.co,3253087538,19,Santa Marta,2023-12-06,REJECTED
+C00192,9261138642,Valentina Martínez,valentina.martinez783@empresa.co,3121161052,41,Cali,2023-04-17,REJECTED
+C00193,46455224,Santiago Torres,santiago.torres108@gmail.com,3066333671,39,Manizales,2023-01-11,VERIFIED
+C00194,234337803,Diego Hernández,diego.hernandez507@empresa.co,3852510657,35,Manizales,2024-10-11,REJECTED
+C00195,710789309,Valentina Flores,valentina.flores376@hotmail.com,3627927756,32,Barranquilla,2024-12-07,REJECTED
+C00196,9703495517,María Martínez,maria.martinez561@fintech.co,3309100418,44,Santa Marta,2023-09-04,REJECTED
+C00197,41924012,María Flores,maria.flores707@outlook.com,3079927500,46,Cartagena,2023-11-18,VERIFIED
+C00198,97599928,Andrés Rojas,andres.rojas931@gmail.com,3578141248,62,Pereira,2023-10-24,REJECTED
+C00199,59921731,Felipe Ramírez,felipe.ramirez156@fintech.co,3043527641,44,Villavicencio,2024-05-27,PENDING
+C00200,253433744,Sara Torres,sara.torres310@gmail.com,3631805220,64,Pereira,2023-11-23,PENDING
+C00201,705451926,Daniela López,daniela.lopez940@outlook.com,3731289926,25,Medellín,2024-06-23,PENDING
+C00202,769435115,Santiago Sánchez,santiago.sanchez407@hotmail.com,3857146300,66,Santa Marta,2024-04-04,PENDING
+C00203,20917232,Carlos Gómez,carlos.gomez156@fintech.co,3803221934,38,Cartagena,2025-01-14,REJECTED
+C00204,333060222,Jorge Mendoza,jorge.mendoza934@empresa.co,3759390575,66,Bogotá,2023-08-28,PENDING
+C00205,70778481,Camila Sánchez,camila.sanchez418@outlook.com,3417787309,43,Barranquilla,2023-03-13,VERIFIED
+C00206,9470026106,Mateo Castro,mateo.castro685@empresa.co,3777865830,57,Barranquilla,2023-07-29,PENDING
+C00207,4806442938,Felipe García,felipe.garcia107@outlook.com,3408128894,57,Medellín,2023-09-07,VERIFIED
+C00208,5044235017,Paula Vargas,paula.vargas820@outlook.com,3365544892,52,Manizales,2025-01-07,REJECTED
+C00209,74958119,Valentina Castro,valentina.castro834@fintech.co,3551283532,26,Barranquilla,2024-12-07,PENDING
+C00210,1353720351,Laura Flores,laura.flores294@outlook.com,3800552206,37,Santa Marta,2023-04-01,PENDING
+C00211,928212315,Camila Vargas,camila.vargas766@gmail.com,3374441717,69,Villavicencio,2024-08-03,REJECTED
+C00212,382479908,Valentina Martínez,valentina.martinez643@gmail.com,3159693333,53,Cali,2023-12-10,VERIFIED
+C00213,4315882476,Juan Martínez,juan.martinez563@gmail.com,3050161356,41,Bogotá,2023-03-13,REJECTED
+C00214,9874841839,Santiago Mendoza,,3385428043,46,Medellín,2023-07-13,PENDING
+C00215,311623633,María Flores,maria.flores604@gmail.com,3236597032,48,Pereira,2023-07-21,REJECTED
+C00216,2519973074,Camila Hernández,camila.hernandez30@fintech.co,3965984004,47,Cali,2023-01-23,REJECTED
+C00217,77050788,Andrés Mendoza,andres.mendoza262@gmail.com,3569647585,63,Bucaramanga,2023-02-04,VERIFIED
+C00218,05721876,Camila Pérez,camila.perez875@outlook.com,3440183773,28,Bucaramanga,2024-06-09,VERIFIED
+C00219,48770122,Paula Hernández,paula.hernandez906@gmail.com,3191756236,33,Bogotá,2024-06-11,VERIFIED
+C00220,07608097,Ana Vargas,ana.vargas819@gmail.com,3993724248,40,Manizales,2023-03-12,REJECTED
+C00221,75542568,Camila Sánchez,camila.sanchez810@empresa.co,3698033017,36,Cali,2023-04-23,VERIFIED
+C00222,21178469,Ana Ramírez,ana.ramirez246@empresa.co,3809004702,31,Cali,2023-10-30,REJECTED
+C00223,3211154485,Daniela García,daniela.garcia376@gmail.com,3133831740,53,Medellín,2023-06-09,PENDING
+C00224,8355603160,Jorge Flores,jorge.flores129@outlook.com,3579207009,62,Cali,2024-06-21,PENDING
+C00225,0030805872,Ana Gómez,ana.gomez859@gmail.com,3457427840,44,Santa Marta,2024-11-06,REJECTED
+C00226,4158902408,Carlos López,carlos.lopez111@hotmail.com,3169672840,37,Medellín,2023-09-23,REJECTED
+C00227,244363728,Juan Vargas,juan.vargas25@gmail.com,3301882651,41,Pereira,2024-06-11,PENDING
+C00228,8024150102,Felipe Hernández,felipe.hernandez326@fintech.co,3719203710,62,Villavicencio,2024-03-26,REJECTED
+C00229,783503519,Camila Rodríguez,camila.rodriguez981@hotmail.com,3923151356,49,Bucaramanga,2023-06-18,PENDING
+C00230,6748382255,Ana Rojas,ana.rojas622@hotmail.com,3728359569,68,Medellín,2024-01-15,REJECTED
+C00231,159431329,Felipe García,felipe.garcia274@gmail.com,3510897101,57,Manizales,2024-08-04,PENDING
+C00232,0199710068,Diego Vargas,diego.vargas804@outlook.com,3627088785,42,Cali,2023-09-03,VERIFIED
+C00233,6190516446,María Rodríguez,,3739410265,35,Villavicencio,2024-01-01,REJECTED
+C00234,5004485753,Sara Pérez,sara.perez577@hotmail.com,3667162776,67,Bucaramanga,2024-02-13,PENDING
+C00235,67112859,Jorge Torres,jorge.torres629@fintech.co,3856303512,18,Cartagena,2024-07-11,PENDING
+C00236,8359523748,Ana Mendoza,ana.mendoza604@outlook.com,3807352330,58,Bogotá,2023-04-19,VERIFIED
+C00237,113993592,Jorge Ramírez,jorge.ramirez330@empresa.co,3912308838,58,Villavicencio,2024-09-01,REJECTED
+C00238,5196991410,María Castro,maria.castro387@fintech.co,3999865956,29,Medellín,2024-07-21,PENDING
+C00239,6410667948,Juan Castro,juan.castro794@hotmail.com,3728059690,45,Barranquilla,2024-08-16,REJECTED
+C00240,846481207,Laura García,laura.garcia839@hotmail.com,3238310295,69,Cali,2023-06-13,PENDING
+C00241,135837629,Mateo Rojas,mateo.rojas811@empresa.co,3419909982,50,Cali,2024-02-14,REJECTED
+C00242,665650099,Daniela Gómez,daniela.gomez935@empresa.co,3517133085,34,Barranquilla,2024-01-21,PENDING
+C00243,45382158,Ana López,ana.lopez268@gmail.com,3309416392,46,Bucaramanga,2024-02-17,VERIFIED
+C00244,41679325,Camila Torres,camila.torres37@hotmail.com,3690222480,60,Bucaramanga,2024-04-14,REJECTED
+C00245,617256633,Daniela Martínez,daniela.martinez510@hotmail.com,3407046093,18,Bucaramanga,2024-05-15,REJECTED
+C00246,674835162,Camila López,camila.lopez815@gmail.com,3688911930,32,Medellín,2024-09-27,REJECTED
+C00247,071306483,Felipe Rojas,felipe.rojas742@hotmail.com,3212404876,64,Santa Marta,2024-08-15,PENDING
+C00248,818279403,Carlos Castro,carlos.castro609@fintech.co,3499594486,45,Santa Marta,2023-12-14,VERIFIED
+C00249,7401146827,Mateo Mendoza,mateo.mendoza780@fintech.co,3603389854,34,Manizales,2024-08-10,PENDING
+C00250,21421385,Laura Flores,laura.flores391@empresa.co,3899389932,48,Pereira,2024-12-09,VERIFIED
+C00251,5147533026,Daniela Vargas,daniela.vargas552@hotmail.com,3290548856,54,Pereira,2024-01-31,PENDING
+C00252,42462283,Jorge Flores,jorge.flores861@outlook.com,3177879528,31,Bogotá,2023-08-10,REJECTED
+C00253,8379706180,Diego Hernández,diego.hernandez610@outlook.com,3914283704,65,Pereira,2024-12-05,VERIFIED
+C00254,34551723,Juan Sánchez,juan.sanchez192@gmail.com,3863935214,47,Bogotá,2024-09-04,REJECTED
+C00255,860753436,Mateo Torres,mateo.torres286@hotmail.com,3542344352,44,Bogotá,2023-04-03,PENDING
+C00256,786703685,Jorge Martínez,jorge.martinez976@hotmail.com,3821056277,36,Medellín,2023-07-01,PENDING
+C00257,6124519330,Camila Pérez,camila.perez292@fintech.co,3829481188,46,Bucaramanga,2023-01-25,VERIFIED
+C00258,3988665037,Mateo Castro,mateo.castro380@hotmail.com,3857045832,36,Medellín,2023-05-10,REJECTED
+C00259,689023281,Diego Martínez,diego.martinez473@fintech.co,3089235594,18,Bucaramanga,2023-11-18,PENDING
+C00260,559823644,Valentina Flores,valentina.flores94@outlook.com,3127873113,44,Barranquilla,2024-11-09,REJECTED
+C00261,0721503525,Paula García,paula.garcia655@fintech.co,3471052705,69,Villavicencio,2023-03-12,VERIFIED
+C00262,85127834,Paula Martínez,paula.martinez823@fintech.co,3712717490,67,Pereira,2023-06-21,REJECTED
+C00263,75810584,Santiago Vargas,santiago.vargas640@empresa.co,3798565655,40,Santa Marta,2024-05-11,PENDING
+C00264,9615300595,Laura Sánchez,laura.sanchez464@gmail.com,3406088921,33,Cali,2024-08-30,PENDING
+C00265,81027636,Juan Castro,juan.castro675@outlook.com,3655125141,58,Barranquilla,2023-03-20,VERIFIED
+C00266,62332762,Paula Torres,paula.torres880@gmail.com,3675594358,54,Medellín,2023-02-27,VERIFIED
+C00267,729880556,Sara Rojas,sara.rojas796@hotmail.com,3835677390,43,Medellín,2024-04-07,VERIFIED
+C00268,45612263,Laura Castro,,3577191002,63,Bogotá,2023-06-07,REJECTED
+C00269,4040455275,Mateo Flores,mateo.flores999@outlook.com,3241972666,20,Manizales,2024-10-29,REJECTED
+C00270,9997042288,Camila Ramírez,camila.ramirez640@hotmail.com,3571284542,60,Medellín,2024-07-30,VERIFIED
+C00271,3696425360,Mateo Castro,mateo.castro553@fintech.co,3173454727,28,Bucaramanga,2023-10-09,VERIFIED
+C00272,825007736,Andrés Martínez,andres.martinez19@empresa.co,3324384357,32,Villavicencio,2024-12-15,PENDING
+C00273,694170494,Valentina Torres,,3652351448,24,Santa Marta,2024-10-02,REJECTED
+C00274,652920768,Ana Flores,,3400429182,24,Medellín,2023-07-28,VERIFIED
+C00275,43550111,Juan Rojas,juan.rojas606@hotmail.com,3035334532,39,Bogotá,2023-01-19,PENDING
+C00276,931711189,Diego Gómez,diego.gomez471@outlook.com,3566659703,68,Pereira,2023-11-03,PENDING
+C00277,86541349,Santiago Mendoza,santiago.mendoza713@hotmail.com,3314943662,68,Bucaramanga,2024-03-26,PENDING
+C00278,49356781,Sara Hernández,sara.hernandez643@hotmail.com,3551614318,30,Medellín,2023-07-13,REJECTED
+C00279,8027795081,Jorge Hernández,jorge.hernandez831@hotmail.com,3166015264,48,Cali,2023-12-27,PENDING
+C00280,365552957,María Flores,maria.flores823@empresa.co,3896747370,65,Pereira,2023-07-05,PENDING
+C00281,019821891,Paula Flores,paula.flores803@gmail.com,3627413570,67,Barranquilla,2024-05-08,PENDING
+C00282,9107114975,Andrés López,andres.lopez881@fintech.co,3136150326,65,Villavicencio,2023-04-22,PENDING
+C00283,6991751295,Carlos Gómez,carlos.gomez992@hotmail.com,3338215912,42,Cali,2023-06-01,PENDING
+C00284,212995481,Juan Gómez,,3667276816,61,Pereira,2023-07-31,REJECTED
+C00285,0761072409,Jorge Sánchez,jorge.sanchez287@hotmail.com,3591266798,25,Villavicencio,2023-08-24,REJECTED
+C00286,5850486128,Santiago Pérez,santiago.perez849@empresa.co,3970686542,32,Bucaramanga,2024-07-20,REJECTED
+C00287,03765513,Paula Torres,paula.torres205@hotmail.com,3077223847,41,Barranquilla,2024-06-14,PENDING
+C00288,287792053,Santiago López,santiago.lopez610@outlook.com,3423337541,47,Pereira,2023-05-14,VERIFIED
+C00289,41328806,Juan Torres,juan.torres692@outlook.com,3634730323,29,Manizales,2023-04-24,REJECTED
+C00290,1776903156,Camila Pérez,camila.perez851@gmail.com,3832967443,56,Cartagena,2023-06-10,REJECTED
+C00291,1436697228,Camila Hernández,camila.hernandez501@gmail.com,3408607668,43,Manizales,2023-12-17,VERIFIED
+C00292,118252258,Juan García,,3412183304,65,Santa Marta,2023-11-08,PENDING
+C00293,117043059,Diego García,diego.garcia138@hotmail.com,3085708096,35,Cali,2023-01-06,PENDING
+C00294,067222212,Daniela Castro,daniela.castro717@fintech.co,3637875392,42,Barranquilla,2023-12-11,VERIFIED
+C00295,5793819183,Laura Torres,laura.torres177@outlook.com,3914902033,50,Santa Marta,2023-07-15,VERIFIED
+C00296,19921097,Camila López,camila.lopez719@outlook.com,3726065376,40,Cartagena,2023-05-22,VERIFIED
+C00297,92362375,Camila Pérez,camila.perez289@outlook.com,3604461176,60,Manizales,2023-07-25,VERIFIED
+C00298,2619383740,Daniela Torres,daniela.torres558@outlook.com,3161252166,56,Barranquilla,2024-12-18,VERIFIED
+C00299,42950602,Juan López,juan.lopez149@outlook.com,3757585007,20,Cartagena,2023-10-14,VERIFIED
+C00300,35149002,Jorge Mendoza,jorge.mendoza786@empresa.co,3846070718,33,Cali,2023-05-20,PENDING
+C00301,015338131,Andrés García,andres.garcia638@gmail.com,3430080794,34,Pereira,2024-08-13,REJECTED
+C00302,1991070606,Laura Sánchez,laura.sanchez435@gmail.com,3200150862,69,Manizales,2024-05-15,PENDING
+C00303,1759463018,Laura Hernández,laura.hernandez439@fintech.co,3736005697,31,Cartagena,2024-09-11,PENDING
+C00304,810090971,Valentina Pérez,valentina.perez109@hotmail.com,3811522160,30,Pereira,2024-02-25,REJECTED
+C00305,626732550,Felipe Castro,felipe.castro45@gmail.com,3515957398,65,Bucaramanga,2024-07-17,REJECTED
+C00306,598400202,Juan Rodríguez,,3190631797,68,Santa Marta,2024-03-24,REJECTED
+C00307,1872360820,Felipe Pérez,felipe.perez502@fintech.co,3382580726,27,Cartagena,2023-04-16,VERIFIED
+C00308,8964126341,Jorge Castro,jorge.castro577@empresa.co,3421153051,18,Manizales,2023-04-11,PENDING
+C00309,922237368,Daniela Hernández,daniela.hernandez788@hotmail.com,3957972118,46,Villavicencio,2023-08-14,PENDING
+C00310,286834195,Laura Torres,laura.torres66@hotmail.com,3542946028,22,Bogotá,2023-03-19,PENDING
+C00311,3251000162,Carlos Torres,carlos.torres893@empresa.co,3004830241,68,Cartagena,2024-08-03,REJECTED
+C00312,931993516,María García,maria.garcia694@outlook.com,3675758144,45,Medellín,2023-04-18,VERIFIED
+C00313,91664002,Santiago García,santiago.garcia201@fintech.co,3101186061,39,Santa Marta,2023-01-29,PENDING
+C00314,14436775,Ana Hernández,ana.hernandez867@hotmail.com,3542409379,43,Bogotá,2024-10-16,PENDING
+C00315,101943428,Jorge Rodríguez,jorge.rodriguez580@gmail.com,3907309020,42,Bogotá,2024-03-31,VERIFIED
+C00316,01989557,Mateo Rodríguez,mateo.rodriguez704@gmail.com,3642401781,23,Villavicencio,2023-03-07,PENDING
+C00317,3309477185,Jorge Rojas,jorge.rojas955@outlook.com,3628940885,48,Cali,2023-06-19,VERIFIED
+C00318,94260024,Santiago López,santiago.lopez196@fintech.co,3313355882,64,Villavicencio,2024-01-31,PENDING
+C00319,37831116,Juan Flores,juan.flores496@gmail.com,3546871587,35,Villavicencio,2023-10-26,VERIFIED
+C00320,0518003242,Felipe Mendoza,felipe.mendoza710@fintech.co,3355945616,62,Santa Marta,2023-08-30,REJECTED
+C00321,32585136,Camila Sánchez,camila.sanchez710@hotmail.com,3356363134,18,Bucaramanga,2024-11-09,VERIFIED
+C00322,088013574,Mateo Martínez,mateo.martinez715@hotmail.com,3606954290,32,Manizales,2023-04-16,PENDING
+C00323,4965525695,Camila Ramírez,camila.ramirez473@hotmail.com,3995412813,54,Cartagena,2023-07-02,PENDING
+C00324,6027898071,Carlos Castro,,3064680584,45,Manizales,2024-01-14,REJECTED
+C00325,0888453285,Daniela Rojas,daniela.rojas51@fintech.co,3717691555,20,Pereira,2023-12-26,VERIFIED
+C00326,62460770,Felipe Flores,felipe.flores119@empresa.co,3082843261,38,Cartagena,2023-09-20,REJECTED
+C00327,35608869,Andrés Pérez,,3487515994,30,Medellín,2024-07-22,PENDING
+C00328,15934340,Mateo García,mateo.garcia398@outlook.com,3553271008,36,Cartagena,2023-03-19,REJECTED
+C00329,1306672398,Felipe Mendoza,felipe.mendoza723@hotmail.com,3068560001,69,Bogotá,2024-04-27,VERIFIED
+C00330,2919000724,Valentina Torres,,3473032770,59,Santa Marta,2023-02-23,PENDING
+C00331,334379845,Juan García,juan.garcia52@gmail.com,3475443564,59,Medellín,2024-09-20,PENDING
+C00332,919252437,Daniela Gómez,daniela.gomez982@empresa.co,3089556172,53,Barranquilla,2023-08-21,REJECTED
+C00333,7264259098,Daniela Vargas,daniela.vargas496@hotmail.com,3563158277,57,Santa Marta,2023-09-16,VERIFIED
+C00334,489495306,Carlos Rojas,carlos.rojas771@empresa.co,3697057448,49,Bucaramanga,2024-06-01,PENDING
+C00335,259671929,Felipe López,felipe.lopez920@outlook.com,3498796810,46,Bogotá,2024-09-07,PENDING
+C00336,5568815375,Sara Gómez,sara.gomez688@empresa.co,3946191389,43,Villavicencio,2024-01-04,PENDING
+C00337,90040167,Mateo Hernández,mateo.hernandez882@hotmail.com,3276275812,33,Cartagena,2023-09-17,PENDING
+C00338,7558421364,Valentina Vargas,valentina.vargas78@gmail.com,3449911284,62,Villavicencio,2024-05-06,PENDING
+C00339,231522079,Jorge Flores,jorge.flores233@fintech.co,3459564557,49,Manizales,2024-01-18,REJECTED
+C00340,98129387,Sara Castro,sara.castro378@outlook.com,3804582317,69,Medellín,2023-04-17,PENDING
+C00341,38423531,Jorge Pérez,jorge.perez743@hotmail.com,3842771007,50,Barranquilla,2024-08-24,REJECTED
+C00342,457398893,Camila Mendoza,camila.mendoza756@empresa.co,3147732480,35,Villavicencio,2023-06-24,REJECTED
+C00343,4020495878,Paula Rodríguez,paula.rodriguez894@fintech.co,3392462210,44,Medellín,2025-01-19,REJECTED
+C00344,49705122,Santiago Mendoza,santiago.mendoza926@hotmail.com,3612236335,49,Cali,2023-01-12,PENDING
+C00345,9656433183,Paula Rojas,paula.rojas761@gmail.com,3295622741,61,Santa Marta,2023-11-03,REJECTED
+C00346,3578269611,Juan Flores,juan.flores129@outlook.com,3217955744,48,Villavicencio,2023-08-20,VERIFIED
+C00347,58022855,Juan Rodríguez,juan.rodriguez503@outlook.com,3627018614,20,Villavicencio,2024-05-25,REJECTED
+C00348,2323224872,Valentina Flores,valentina.flores46@gmail.com,3929352738,22,Cartagena,2024-01-17,VERIFIED
+C00349,84685022,Jorge Rojas,jorge.rojas246@fintech.co,3994826322,39,Villavicencio,2023-09-16,VERIFIED
+C00350,31931583,Paula Vargas,paula.vargas719@hotmail.com,3867203977,63,Pereira,2023-10-11,PENDING
+C00351,95228007,Jorge Hernández,jorge.hernandez831@empresa.co,3019474017,22,Barranquilla,2024-03-27,PENDING
+C00352,396633602,Sara García,sara.garcia276@hotmail.com,3660752794,32,Pereira,2023-08-16,PENDING
+C00353,040047802,Jorge Rojas,jorge.rojas907@fintech.co,3459650016,35,Cali,2023-07-03,REJECTED
+C00354,8487781799,Camila Hernández,camila.hernandez755@outlook.com,3578888374,59,Bogotá,2024-09-07,PENDING
+C00355,5416556814,Felipe Pérez,felipe.perez480@hotmail.com,3787789625,54,Cali,2023-03-18,PENDING
+C00356,5929456591,Valentina Sánchez,valentina.sanchez122@outlook.com,3792247977,40,Cali,2024-05-05,VERIFIED
+C00357,41088500,Santiago Pérez,santiago.perez388@fintech.co,3172288735,28,Villavicencio,2024-10-14,PENDING
+C00358,75741764,Laura Rojas,laura.rojas912@gmail.com,3334222092,26,Cali,2023-04-25,REJECTED
+C00359,4340328047,Juan Sánchez,juan.sanchez826@empresa.co,3852326266,66,Cali,2023-10-09,VERIFIED
+C00360,4668473447,Sara Pérez,sara.perez605@fintech.co,3608719604,61,Pereira,2023-08-01,REJECTED
+C00361,4235691951,Sara Mendoza,sara.mendoza986@fintech.co,3936602630,19,Manizales,2024-09-20,VERIFIED
+C00362,15165647,Sara Castro,sara.castro609@empresa.co,3640210220,34,Pereira,2024-01-20,PENDING
+C00363,20014676,Daniela García,daniela.garcia624@gmail.com,3692795818,47,Cartagena,2023-06-18,VERIFIED
+C00364,74339402,Ana Hernández,,3168867461,45,Bucaramanga,2024-02-28,REJECTED
+C00365,57352213,Mateo Rojas,mateo.rojas469@outlook.com,3896664467,39,Pereira,2024-03-06,REJECTED
+C00366,220476907,Jorge Martínez,jorge.martinez541@fintech.co,3742368656,21,Villavicencio,2024-04-07,VERIFIED
+C00367,98537675,Mateo López,,3202545293,62,Santa Marta,2023-10-25,VERIFIED
+C00368,622381467,Juan Vargas,juan.vargas895@fintech.co,3400480860,35,Bogotá,2023-06-17,REJECTED
+C00369,5325021664,Carlos Ramírez,carlos.ramirez429@fintech.co,3138211815,69,Barranquilla,2024-05-02,PENDING
+C00370,201910843,Felipe García,felipe.garcia442@outlook.com,3759478429,29,Cali,2023-01-30,VERIFIED
+C00371,908894251,Juan Vargas,,3864575899,50,Bucaramanga,2024-07-18,VERIFIED
+C00372,04815141,Santiago Torres,santiago.torres186@fintech.co,3787725135,52,Manizales,2023-03-15,PENDING
+C00373,4855681504,María Sánchez,,3882353134,44,Barranquilla,2024-11-30,REJECTED
+C00374,367442881,Felipe Flores,felipe.flores792@outlook.com,3329023525,56,Cartagena,2024-09-21,VERIFIED
+C00375,10965752,Santiago Castro,santiago.castro873@empresa.co,3570640243,33,Pereira,2024-05-08,REJECTED
+C00376,470309181,Felipe Rodríguez,felipe.rodriguez172@gmail.com,3368128327,22,Villavicencio,2024-10-20,PENDING
+C00377,8214396977,Laura López,laura.lopez388@empresa.co,3100529196,23,Bucaramanga,2023-02-14,PENDING
+C00378,335116929,Mateo Vargas,mateo.vargas907@empresa.co,3330446114,21,Barranquilla,2023-04-19,VERIFIED
+C00379,951957150,Carlos López,carlos.lopez51@outlook.com,3629061649,51,Cartagena,2023-10-10,PENDING
+C00380,54052203,Jorge Martínez,jorge.martinez111@outlook.com,3204214094,69,Medellín,2024-10-31,PENDING
+C00381,5470830220,Santiago Rojas,santiago.rojas940@fintech.co,3608473116,55,Cartagena,2023-07-23,REJECTED
+C00382,984235510,Carlos Ramírez,carlos.ramirez804@outlook.com,3471412622,69,Pereira,2023-05-11,VERIFIED
+C00383,95045256,Camila Mendoza,camila.mendoza243@outlook.com,3284903782,68,Bucaramanga,2023-05-27,REJECTED
+C00384,349772946,Felipe Martínez,felipe.martinez349@fintech.co,3666469351,36,Bogotá,2024-08-09,REJECTED
+C00385,258103638,Juan Gómez,juan.gomez949@fintech.co,3853088457,54,Villavicencio,2023-04-13,REJECTED
+C00386,9745262323,Sara Mendoza,sara.mendoza149@empresa.co,3307491615,43,Medellín,2023-12-07,REJECTED
+C00387,838123913,María Ramírez,maria.ramirez536@fintech.co,3484977714,48,Cartagena,2023-06-08,VERIFIED
+C00388,17627689,Daniela Ramírez,daniela.ramirez331@fintech.co,3817346649,27,Bogotá,2023-03-15,PENDING
+C00389,84464501,Laura Rodríguez,laura.rodriguez943@outlook.com,3941332271,34,Barranquilla,2023-12-22,VERIFIED
+C00390,892506106,Juan Ramírez,juan.ramirez635@hotmail.com,3141775841,25,Barranquilla,2023-06-16,VERIFIED
+C00391,32516365,Valentina Pérez,valentina.perez166@fintech.co,3942564543,34,Pereira,2024-11-20,PENDING
+C00392,0970759453,Andrés Castro,andres.castro723@outlook.com,3368876537,34,Bucaramanga,2023-07-23,REJECTED
+C00393,5389354795,Diego Hernández,diego.hernandez302@gmail.com,3758434961,20,Bogotá,2024-01-30,REJECTED
+C00394,4575967760,Diego Pérez,diego.perez874@empresa.co,3415153015,22,Bucaramanga,2024-10-12,VERIFIED
+C00395,7176305700,Diego Flores,diego.flores914@outlook.com,3354420006,58,Medellín,2023-11-27,PENDING
+C00396,49245344,Sara García,sara.garcia949@empresa.co,3475004900,53,Pereira,2023-12-09,VERIFIED
+C00397,26562583,Ana Torres,ana.torres577@gmail.com,3316027094,38,Santa Marta,2024-02-12,REJECTED
+C00398,489273922,Sara Flores,sara.flores725@gmail.com,3771536599,52,Medellín,2024-05-31,VERIFIED
+C00399,1771863449,Juan Mendoza,juan.mendoza278@hotmail.com,3986191109,43,Manizales,2023-06-29,PENDING
+C00400,47956892,Camila Castro,camila.castro613@gmail.com,3959108618,23,Bogotá,2024-06-02,REJECTED
+C00401,08810607,Jorge Vargas,jorge.vargas723@gmail.com,3972160547,28,Cali,2024-08-02,VERIFIED
+C00402,2304215501,Andrés Sánchez,andres.sanchez720@hotmail.com,3063019264,27,Bogotá,2023-08-22,VERIFIED
+C00403,73418258,Valentina Ramírez,valentina.ramirez239@gmail.com,3768195427,68,Barranquilla,2024-06-08,REJECTED
+C00404,47377051,Mateo Flores,mateo.flores395@outlook.com,3438845666,58,Santa Marta,2025-01-16,PENDING
+C00405,1445574248,María Gómez,maria.gomez76@gmail.com,3309168232,25,Bogotá,2023-04-27,REJECTED
+C00406,45086080,María López,maria.lopez60@gmail.com,3545992597,64,Medellín,2023-11-27,REJECTED
+C00407,58967534,Sara Hernández,sara.hernandez20@empresa.co,3485707594,42,Bogotá,2023-04-07,REJECTED
+C00408,7802805498,Valentina Hernández,valentina.hernandez841@hotmail.com,3825790931,50,Bucaramanga,2024-08-16,REJECTED
+C00409,08919992,María Torres,maria.torres575@fintech.co,3599610201,21,Villavicencio,2024-08-02,REJECTED
+C00410,584424159,Felipe Rojas,felipe.rojas435@gmail.com,3526842719,34,Barranquilla,2023-09-24,REJECTED
+C00411,0213513790,Sara Vargas,sara.vargas860@outlook.com,3605872278,32,Barranquilla,2023-01-03,PENDING
+C00412,649870873,Felipe Torres,felipe.torres250@hotmail.com,3589506608,28,Manizales,2024-11-07,VERIFIED
+C00413,300738299,Diego Rojas,diego.rojas784@empresa.co,3169308408,53,Pereira,2023-02-23,VERIFIED
+C00414,09075588,Ana Castro,ana.castro74@empresa.co,3101650257,35,Cali,2024-12-22,VERIFIED
+C00415,7487548519,Felipe Gómez,felipe.gomez83@gmail.com,3066504826,62,Cali,2024-12-24,VERIFIED
+C00416,364677275,Diego Sánchez,diego.sanchez612@gmail.com,3968997513,42,Bucaramanga,2024-08-16,REJECTED
+C00417,417402814,María Torres,maria.torres151@outlook.com,3501952147,55,Bucaramanga,2023-05-29,VERIFIED
+C00418,8209573222,Camila López,camila.lopez574@empresa.co,3418595351,60,Bucaramanga,2024-07-01,VERIFIED
+C00419,55217252,Juan Rojas,juan.rojas361@hotmail.com,3603546147,35,Villavicencio,2023-04-30,PENDING
+C00420,7677750527,Carlos García,carlos.garcia328@hotmail.com,3495594338,57,Villavicencio,2023-05-05,REJECTED
+C00421,360772162,Felipe Gómez,felipe.gomez786@fintech.co,3979590206,44,Cartagena,2023-08-07,VERIFIED
+C00422,61562235,Santiago Rojas,santiago.rojas271@gmail.com,3235151122,19,Manizales,2024-12-31,VERIFIED
+C00423,89881375,Mateo Sánchez,mateo.sanchez982@gmail.com,3058832323,33,Medellín,2023-12-14,VERIFIED
+C00424,23186951,Juan Mendoza,juan.mendoza43@gmail.com,3946344257,19,Cartagena,2023-04-10,PENDING
+C00425,5966863523,Jorge Castro,jorge.castro830@empresa.co,3616530787,39,Bogotá,2024-05-11,PENDING
+C00426,332961815,Ana Mendoza,ana.mendoza386@gmail.com,3136998209,66,Cartagena,2023-07-31,REJECTED
+C00427,60094163,Ana Pérez,ana.perez270@fintech.co,3582684944,63,Barranquilla,2024-04-28,VERIFIED
+C00428,7723862371,Paula Ramírez,paula.ramirez138@empresa.co,3172759588,29,Barranquilla,2025-01-27,PENDING
+C00429,1020394042,Laura García,laura.garcia359@empresa.co,3807406476,58,Pereira,2023-12-16,PENDING
+C00430,14374813,Mateo Hernández,mateo.hernandez87@outlook.com,3713757588,68,Cali,2023-04-03,PENDING
+C00431,123648267,Paula Rodríguez,paula.rodriguez329@empresa.co,3927054979,62,Villavicencio,2023-11-09,PENDING
+C00432,0507968295,Sara Flores,sara.flores107@fintech.co,3676366845,44,Villavicencio,2023-03-28,REJECTED
+C00433,06487113,Camila Torres,camila.torres85@fintech.co,3901049641,36,Manizales,2024-02-03,REJECTED
+C00434,79221742,Juan Castro,juan.castro700@fintech.co,3204620463,31,Villavicencio,2023-04-28,REJECTED
+C00435,8757303769,Diego Ramírez,diego.ramirez972@hotmail.com,3920288015,52,Manizales,2025-01-16,REJECTED
+C00436,2065955308,Andrés Torres,andres.torres543@hotmail.com,3817348813,60,Bucaramanga,2024-11-27,REJECTED
+C00437,84506667,Santiago Pérez,,3987966570,44,Bucaramanga,2023-11-20,VERIFIED
+C00438,0618828497,Diego Sánchez,diego.sanchez122@empresa.co,3024219842,27,Manizales,2024-11-26,PENDING
+C00439,03463969,Andrés Pérez,andres.perez403@outlook.com,3363673988,29,Cali,2024-06-29,PENDING
+C00440,19184306,Paula Castro,paula.castro38@outlook.com,3748352514,46,Bogotá,2024-02-27,REJECTED
+C00441,652269769,Laura Ramírez,,3851662883,42,Barranquilla,2023-05-29,REJECTED
+C00442,23214635,Santiago Rodríguez,santiago.rodriguez666@hotmail.com,3276908306,26,Bucaramanga,2023-05-14,PENDING
+C00443,2521004403,Ana García,ana.garcia956@fintech.co,3259691273,62,Santa Marta,2023-12-19,REJECTED
+C00444,85841616,Daniela Rojas,daniela.rojas338@hotmail.com,3478481195,41,Manizales,2023-04-29,REJECTED
+C00445,68944104,Camila Martínez,camila.martinez804@outlook.com,3514689338,54,Medellín,2023-07-28,VERIFIED
+C00446,1439082066,Diego Vargas,diego.vargas569@fintech.co,3101417078,55,Medellín,2024-12-18,REJECTED
+C00447,0373779330,Mateo Hernández,mateo.hernandez889@hotmail.com,3224487704,55,Villavicencio,2023-07-05,REJECTED
+C00448,778433644,Sara Castro,sara.castro708@outlook.com,3142587499,41,Barranquilla,2024-08-03,VERIFIED
+C00449,832182805,Valentina Sánchez,valentina.sanchez31@empresa.co,3441034742,31,Bucaramanga,2024-04-10,VERIFIED
+C00450,945018345,Mateo Gómez,mateo.gomez491@hotmail.com,3053144157,31,Santa Marta,2025-01-04,VERIFIED
+C00451,707378220,Jorge Pérez,jorge.perez112@empresa.co,3674134913,51,Bucaramanga,2023-06-29,VERIFIED
+C00452,9377610312,Valentina Torres,valentina.torres188@empresa.co,3652024732,46,Cartagena,2023-02-24,PENDING
+C00453,05456389,Andrés Gómez,andres.gomez40@gmail.com,3191250314,60,Bogotá,2024-12-03,VERIFIED
+C00454,54469409,Laura Sánchez,laura.sanchez243@gmail.com,3935854985,26,Bogotá,2023-11-30,REJECTED
+C00455,2560572570,Andrés Pérez,andres.perez643@empresa.co,3623600490,59,Bucaramanga,2023-02-26,PENDING
+C00456,440727653,Diego Torres,diego.torres181@hotmail.com,3699925399,63,Bucaramanga,2023-05-04,REJECTED
+C00457,77311644,Laura Vargas,laura.vargas638@hotmail.com,3807299532,27,Medellín,2025-01-29,REJECTED
+C00458,44685754,Carlos Gómez,,3124034489,55,Manizales,2023-03-02,PENDING
+C00459,754445152,Carlos López,carlos.lopez870@hotmail.com,3685396400,29,Cali,2023-06-29,REJECTED
+C00460,5959537424,Paula López,paula.lopez755@hotmail.com,3637942481,68,Villavicencio,2023-11-11,PENDING
+C00461,7791502066,Carlos Ramírez,carlos.ramirez291@gmail.com,3713688040,60,Cartagena,2023-04-04,VERIFIED
+C00462,1084462642,Jorge Martínez,jorge.martinez469@hotmail.com,3303511641,56,Medellín,2024-08-12,REJECTED
+C00463,23708318,Carlos Pérez,carlos.perez762@gmail.com,3019546660,46,Santa Marta,2023-07-31,PENDING
+C00464,5182297869,Santiago Mendoza,santiago.mendoza444@hotmail.com,3152322496,36,Bogotá,2023-11-26,REJECTED
+C00465,256257525,Felipe Mendoza,felipe.mendoza934@fintech.co,3725633835,25,Cartagena,2024-12-04,PENDING
+C00466,763378188,María Hernández,maria.hernandez545@hotmail.com,3116836932,69,Bucaramanga,2023-08-02,PENDING
+C00467,452662402,Laura Hernández,laura.hernandez319@gmail.com,3956877746,33,Medellín,2024-11-07,REJECTED
+C00468,88179538,Diego Rodríguez,diego.rodriguez887@hotmail.com,3512642712,42,Manizales,2023-01-31,VERIFIED
+C00469,998308371,María Hernández,maria.hernandez176@outlook.com,3659149361,55,Manizales,2023-07-29,PENDING
+C00470,864138264,Ana Castro,ana.castro123@hotmail.com,3373257866,58,Pereira,2023-07-24,REJECTED
+C00471,46617387,Daniela García,daniela.garcia166@fintech.co,3965138302,48,Manizales,2024-04-23,PENDING
+C00472,9558054786,Daniela Hernández,daniela.hernandez707@fintech.co,3665227628,68,Medellín,2024-04-20,PENDING
+C00473,92485203,María Martínez,maria.martinez318@empresa.co,3672171045,30,Cartagena,2023-06-10,VERIFIED
+C00474,30030350,Diego Mendoza,diego.mendoza211@hotmail.com,3665680136,63,Manizales,2024-11-29,REJECTED
+C00475,440452783,Laura Flores,laura.flores350@hotmail.com,3919726371,30,Pereira,2023-08-22,REJECTED
+C00476,36651292,Santiago Pérez,santiago.perez500@outlook.com,3140382743,52,Barranquilla,2024-03-28,PENDING
+C00477,29194935,Camila Vargas,camila.vargas19@outlook.com,3632562761,66,Bogotá,2023-02-03,REJECTED
+C00478,467668784,María López,maria.lopez277@gmail.com,3226502977,28,Cartagena,2023-02-18,VERIFIED
+C00479,85744694,Valentina López,valentina.lopez553@hotmail.com,3593858463,51,Pereira,2023-09-05,VERIFIED
+C00480,744375501,Santiago Vargas,santiago.vargas951@hotmail.com,3088007536,30,Bogotá,2023-05-31,PENDING
+C00481,871589712,Andrés Torres,,3211353421,69,Villavicencio,2024-03-31,PENDING
+C00482,88916982,Carlos López,carlos.lopez957@fintech.co,3844571585,32,Santa Marta,2023-02-12,REJECTED
+C00483,759650517,Diego Vargas,diego.vargas844@outlook.com,3193412925,69,Villavicencio,2024-04-18,REJECTED
+C00484,33225324,Diego Pérez,diego.perez514@fintech.co,3324955962,38,Bucaramanga,2024-01-06,PENDING
+C00485,113978145,Daniela Torres,daniela.torres619@gmail.com,3443089045,58,Cartagena,2025-01-19,VERIFIED
+C00486,798284078,Felipe Torres,felipe.torres184@empresa.co,3343190506,64,Cartagena,2024-05-04,REJECTED
+C00487,898258260,Mateo Ramírez,mateo.ramirez679@hotmail.com,3867824818,32,Santa Marta,2024-03-13,REJECTED
+C00488,683146773,Mateo Vargas,mateo.vargas419@outlook.com,3901091687,67,Medellín,2023-02-10,REJECTED
+C00489,566531425,Paula Hernández,paula.hernandez695@outlook.com,3755064127,65,Medellín,2024-01-21,VERIFIED
+C00490,1291623438,Felipe Gómez,felipe.gomez756@empresa.co,3955020823,61,Cali,2024-06-26,VERIFIED
+C00491,055379233,Santiago López,santiago.lopez262@hotmail.com,3808745872,20,Cartagena,2024-05-15,VERIFIED
+C00492,09462103,Santiago Castro,santiago.castro368@empresa.co,3043553403,68,Cali,2025-01-23,VERIFIED
+C00493,951846637,Valentina Rodríguez,valentina.rodriguez976@fintech.co,3532721836,55,Manizales,2024-09-29,REJECTED
+C00494,789071802,Carlos Pérez,carlos.perez812@fintech.co,3160059546,46,Medellín,2023-10-20,PENDING
+C00495,026301830,Santiago Vargas,,3754835762,53,Pereira,2024-07-18,REJECTED
+C00496,16181964,Ana Gómez,ana.gomez677@gmail.com,3237725926,26,Cali,2024-09-25,REJECTED
+C00497,24316090,María Rojas,maria.rojas355@empresa.co,3391070848,30,Bogotá,2023-04-18,VERIFIED
+C00498,7934542360,Sara Ramírez,sara.ramirez239@fintech.co,3320141358,23,Manizales,2023-11-27,VERIFIED
+C00499,44749100,Andrés Rojas,andres.rojas134@hotmail.com,3310298092,39,Villavicencio,2023-09-07,REJECTED
+C00500,775671317,Laura Flores,laura.flores255@hotmail.com,3465219213,64,Bucaramanga,2023-07-18,REJECTED
+C00501,4860542516,Santiago López,santiago.lopez650@hotmail.com,3804603208,41,Cartagena,2024-07-25,REJECTED
+C00502,896348451,Felipe Sánchez,,3963541888,37,Bucaramanga,2023-07-14,VERIFIED
+C00503,73881914,Ana Flores,ana.flores139@outlook.com,3496858884,37,Santa Marta,2025-01-18,PENDING
+C00504,9597715779,Sara Mendoza,sara.mendoza237@hotmail.com,3339913917,23,Pereira,2023-05-16,PENDING
+C00505,6583567364,Daniela Pérez,daniela.perez838@fintech.co,3583697952,69,Cartagena,2024-05-04,REJECTED
+C00506,32807506,Daniela Rojas,daniela.rojas783@outlook.com,3775310360,69,Bogotá,2024-03-21,PENDING
+C00507,91923492,Jorge Torres,jorge.torres224@outlook.com,3932663135,20,Pereira,2023-03-01,PENDING
+C00508,0473407688,Daniela Ramírez,daniela.ramirez983@hotmail.com,3303151962,65,Santa Marta,2024-08-07,PENDING
+C00509,135727224,Mateo Gómez,mateo.gomez146@fintech.co,3143273676,32,Santa Marta,2024-09-22,VERIFIED
+C00510,28360687,Carlos Gómez,,3582306777,24,Pereira,2024-05-21,PENDING
+C00511,2494756667,Felipe García,felipe.garcia445@empresa.co,3929653463,32,Cali,2024-09-14,PENDING
+C00512,600817948,Carlos Martínez,carlos.martinez223@hotmail.com,3492437080,34,Santa Marta,2024-03-29,PENDING
+C00513,49805506,Laura Flores,laura.flores214@empresa.co,3562277125,61,Manizales,2023-06-03,VERIFIED
+C00514,86979122,Mateo Mendoza,mateo.mendoza15@fintech.co,3076011442,66,Manizales,2023-06-11,PENDING
+C00515,438904146,Mateo López,mateo.lopez682@gmail.com,3433233600,44,Cartagena,2024-06-02,VERIFIED
+C00516,26371153,Juan Mendoza,juan.mendoza104@outlook.com,3753117258,64,Bucaramanga,2023-07-23,VERIFIED
+C00517,76351772,Felipe Gómez,felipe.gomez289@outlook.com,3430194103,69,Barranquilla,2023-10-20,REJECTED
+C00518,4770099169,María Gómez,maria.gomez869@gmail.com,3928691603,18,Cali,2023-12-03,VERIFIED
+C00519,6343720584,Jorge Hernández,jorge.hernandez746@outlook.com,3209710138,26,Barranquilla,2024-09-14,VERIFIED
+C00520,72942284,Laura Ramírez,laura.ramirez215@gmail.com,3375640005,44,Santa Marta,2024-07-22,VERIFIED
+C00257,6124519330,Camila Pérez,camila.perez292@fintech.co,3829481188,46,Bucaramanga,2023-01-25,VERIFIED
+C00200,253433744,Sara Torres,sara.torres310@gmail.com,3631805220,64,Pereira,2023-11-23,PENDING
+C00479,85744694,Valentina López,valentina.lopez553@hotmail.com,3593858463,51,Pereira,2023-09-05,VERIFIED
+C00438,0618828497,Diego Sánchez,diego.sanchez122@empresa.co,3024219842,27,Manizales,2024-11-26,PENDING
+C00464,5182297869,Santiago Mendoza,santiago.mendoza444@hotmail.com,3152322496,36,Bogotá,2023-11-26,REJECTED
+C00155,6753788260,Juan Flores,juan.flores946@outlook.com,3553980228,44,Barranquilla,2024-07-07,REJECTED
+C00156,7013371321,Ana Sánchez,ana.sanchez582@fintech.co,3115444785,51,Santa Marta,2024-07-15,PENDING
+C00056,549351833,Felipe Ramírez,felipe.ramirez968@gmail.com,3548551039,65,Cali,2024-04-23,VERIFIED
+C00366,220476907,Jorge Martínez,jorge.martinez541@fintech.co,3742368656,21,Villavicencio,2024-04-07,VERIFIED
+C00395,7176305700,Diego Flores,diego.flores914@outlook.com,3354420006,58,Medellín,2023-11-27,PENDING
+C00189,539917039,Laura Rodríguez,laura.rodriguez499@fintech.co,3132745957,23,Cali,2023-06-13,REJECTED
+C00085,534065954,Juan Ramírez,juan.ramirez969@empresa.co,3013333713,26,Santa Marta,2023-08-22,REJECTED
